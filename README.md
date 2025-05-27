@@ -41,8 +41,8 @@ This project demonstrates efficient state management using **React Context API**
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/tech-store.git
-   cd tech-store
+   git clone (https://github.com/mateti01/Tech-Store/)
+   cd Tech-Store
 
 
 # Getting Started with Create React App
