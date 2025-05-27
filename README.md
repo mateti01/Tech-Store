@@ -4,7 +4,7 @@
 
 ## Overview
 
-**Tech Store** is a fully responsive, modern e-commerce web application built with **ReactJS** that showcases the latest technology products. It leverages a third-party API to fetch real-time product data, eliminating the need for a backend database and ensuring fresh inventory updates.
+**Tech Store** is a fully responsive, modern e-commerce web application built with **ReactJS** that showcases the latest technology products. It uses custom defined data which we can also use FakeStoreAPI leveraging a third-party API to fetch real-time product data, eliminating the need for a backend database and ensuring fresh inventory updates.
 
 This project demonstrates efficient state management using **React Context API**, smooth client-side navigation powered by **React Router DOM**, and clean asynchronous data fetching with **Axios** or the Fetch API.
 
